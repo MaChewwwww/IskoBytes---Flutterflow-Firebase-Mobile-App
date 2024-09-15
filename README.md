@@ -1,4 +1,4 @@
 # IskoBytes---Flutterflow-Firebase-Mobile-App
 
-Publsihed on Web:
+Published on Web:
 https://isko-bytes-o0272k.flutterflow.app/
