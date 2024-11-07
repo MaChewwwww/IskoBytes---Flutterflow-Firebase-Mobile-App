@@ -1,6 +1,7 @@
-# IskoBytes---Flutterflow-Firebase-Mobile-App
+# blog-demo
 
-You can try my app if you want. It's not done yet though
+A new Flutter project.
 
-Published on Web:
-https://isko-bytes-o0272k.flutterflow.app/
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
