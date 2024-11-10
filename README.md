@@ -40,8 +40,5 @@ In today’s fast-paced world, many student entrepreneurs still rely on traditio
 - **Philippine Standard Geographic Code (PSGC) API** – Retrieve information about regions and their provinces, cities, municipalities, sub-municipalities, and barangays in the Philippines.
 
 
-**Published Web App :** https://isko-bytes-o0272k.flutterflow.app/
-
-
 
 
